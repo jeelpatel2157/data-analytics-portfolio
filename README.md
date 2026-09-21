@@ -12,3 +12,14 @@ my data analytics learning journey
 - 11_power_bi_versions_guide.md - Version comparison
 - Sales_Dashboard_Original.pbix - Full data version
 - Sales_Dashboard_Custom.pbix - Filtered example
+  # Data Analytics Portfolio - JP (Jeel Patel)
+**Learning Sprint:** August 22-26, 2026 (5 Days)
+**Status:** 90+ SQL Queries Mastered! 🚀
+
+## Quick Stats
+- **SQL Queries:** 90+
+- **Topics:** Window Functions, CTEs, UNION, Optimization
+- **Excel:** 19 concepts + Pivot Tables
+- **Power BI:** 2 interactive dashboards
+- **GitHub Files:** 15
+- **Career Ready:** YES! ✅
