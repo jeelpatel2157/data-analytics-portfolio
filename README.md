@@ -23,3 +23,15 @@ my data analytics learning journey
 - **Power BI:** 2 interactive dashboards
 - **GitHub Files:** 15
 - **Career Ready:** YES! ✅
+### Day 5 Advanced SQL
+- **13_advanced_sql_cte_union_optimization.sql** - CTEs, UNION, Optimization
+- **15_string_functions_queries.sql** - Text manipulation & data cleaning
+- **16_day5_final_summary.md** - Complete Day 5 documentation
+
+## Final Statistics (5 Days)
+- **Total SQL Queries:** 124+
+- **Advanced Topics:** 20+
+- **GitHub Files:** 18
+- **Excel Concepts:** 19
+- **Power BI Dashboards:** 1
+- **Study Documents:** 6
