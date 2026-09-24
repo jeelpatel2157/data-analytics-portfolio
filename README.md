@@ -35,3 +35,14 @@ my data analytics learning journey
 - **Excel Concepts:** 19
 - **Power BI Dashboards:** 1
 - **Study Documents:** 6
+  ## Day 8 - Python Fundamentals (August 27, 2026)
+- **19_day8_python_fundamentals.py** - Complete Python basics
+  - Variables, Data Types, Math
+  - Conditionals (IF/ELIF/ELSE)
+  - Loops (FOR/WHILE, BREAK/CONTINUE)
+  - Functions (Parameters, Return)
+  - Lists (Create, Access, Modify, Loop)
+  - Dictionaries (Key-value, Nested)
+  - List Comprehensions (Advanced)
+
+**7 Concepts Mastered! Ready for Pandas!**
